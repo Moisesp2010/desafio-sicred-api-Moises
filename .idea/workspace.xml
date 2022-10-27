@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41404cd0-2664-4e34-9d30-251d1c8412d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/code-sync.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/runners/AlterarSimulacoesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/runners/CadastrarSimulacoesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/runners/ConsultarRestricoesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/runners/ConsultarSimulacoesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/runners/RemoverSimulacoesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/steps/alterarSimulacoes/AlterarSimulacoesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/steps/cadastrarSimulacoes/CadastrarSimulacoesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/steps/consultarRestricoes/ConsultarRestricoesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/steps/consultarSimulacoes/ConsultarSimulacoesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/steps/removerSimulacoes/RemoverSimulacoesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sicredi/utils/GeradorDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/alterarSimulacoes.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cadastrarSimulacoes.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/consultarRestricoes.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/consultarSimulacoes.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/removerSimulacoes.feature" afterDir="false" />
-    </list>
+    <list default="true" id="41404cd0-2664-4e34-9d30-251d1c8412d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +109,7 @@
       <updated>1663215598995</updated>
       <workItem from="1663215600674" duration="1024000" />
       <workItem from="1663216803988" duration="217000" />
+      <workItem from="1663594342680" duration="199000" />
     </task>
     <servers />
   </component>
